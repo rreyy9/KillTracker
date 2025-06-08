@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Kill Tracker
+## Notes: Tracks monster kills by zone with a simple collapsible interface
+## Author: YourName
+## Version: 1.0
+## SavedVariables: KillTrackerDB
+
+KillTracker.lua
